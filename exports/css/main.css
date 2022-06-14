@@ -1,0 +1,105 @@
+body
+{
+    background:linear-gradient(#d0d9db,#bce8c5);
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+
+#maingame {
+    position: relative;
+    left: 42%;
+    width: 20%;
+}
+.Titre
+{
+    font-size: 50px;
+    text-align: center;
+   
+}
+.titre1
+{
+    color: #a8ada9;
+}
+.titre1:hover
+{
+    color:#5f615f
+}
+.titre2
+{
+    color: #adb3ae;
+}
+.titre2:hover
+{
+    color:#747574
+}
+.titre3
+{
+    color: #a8ada9;
+}
+.titre3:hover
+{
+    color:#5f615f
+}
+#validate
+{
+    font-size: 24px;
+    text-align: center;
+    border: 1px solid #747574;
+    border-radius: 20px;
+    width: 18%;
+    height: 10%;
+    position: relative;
+    left: 41.45%;
+    margin-top : 20px; 
+    color: #a8ada9;
+    background: linear-gradient(#4e4f4e,#444544);
+}
+#validate:hover
+{
+    background:linear-gradient(#bcc4bc,#d3dbd3);
+    color: #747574;
+}
+
+#robotbuton
+{
+    text-align: center;
+    border: 1px solid #747574;
+    border-radius: 20px;
+    width: 200px;
+    height: 30px;
+    position: relative;
+    left: 42%;
+    margin-top : 20px; 
+    color: #a8ada9;
+    background: linear-gradient(#4e4f4e,#444544);
+    font-size: 24px;
+    
+}
+#robotbuton:hover
+{
+    background:linear-gradient(#bcc4bc,#d3dbd3);
+    color: #747574;
+}
+.Titre4
+{
+    font-size: 30px;
+    text-align: center;
+    color:#5f615f;
+}
+.Titre4:hover
+{
+    color:#5f615f;
+    
+}
+
+.buttonclass {
+    border-radius: 10px;
+
+}
+.buttonclass:hover
+{
+    background-color: #747574;
+}
+
+/* COPYRIGHT REDOUU FOR SCHOOL */
