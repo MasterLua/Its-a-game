@@ -156,7 +156,7 @@ function selecting(a, b, max) {
         BattonTable[b[a]].Selected = true;
         ReloadChecking();    
         setTimeout(function(){
-            console.log("RESET !!")
+            console.log("RESET !!");
             for(var i = 0; i < max; i++) {
                 BattonTable[b[i]].Selected = false;
                 BattonTable[b[i]].IsActive = false;
